@@ -1,0 +1,45 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Compiled Binaries & Object Files (C / C++)
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.bin
+*.so
+*.dylib
+*.dll
+*.a
+
+# Debug Symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Editor & IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.directory
+
+# Temporary Files
+*.tmp
+*.bak
